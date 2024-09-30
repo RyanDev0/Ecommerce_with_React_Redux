@@ -41,5 +41,5 @@ Ensure you have the following installed:
 1. **Start the development server**:
    ```bash
    npm start
-2.  **Access the application**
+2.  **Access the application**:
     From your terminal, click the link provided.
